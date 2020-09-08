@@ -12,14 +12,14 @@ export default class Chart extends Component {
                     label: 'Population',
                     data:[
                         456232,
-                        234532,
-                        153063,
+                        2345323,
+                        1530630,
                         234095,
-                        34534
+                        500000
                     ],
                     backgroundColor:[
-                        'rgba(255, 99, 132, 0.6)',
-                        'rgba(255, 3, 132, 0.6)',
+                        '#0000cc',
+                        '#000099',
                         'rgba(255, 99, 222, 0.6)',
                         'rgba(255, 99, 210, 0.6)',
                         'rgba(255, 99, 99, 0.6)',
